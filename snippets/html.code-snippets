@@ -1,0 +1,24 @@
+{
+    "Basic NavBar": {
+        "prefix": "!nav",
+        "body": [
+            "    <!-- Make sure to attach css and javascript file.",
+            "    Basic NavBar :D -->",
+            "",
+            "",
+            "<nav>",
+            "    <a href=''>Maddy</a>",
+            "    <ul>",
+            "        <li>Home</li>",
+            "        <li>About</li>",
+            "    </ul>",
+            "        <div class='icon' id='menuBtn'>",
+            "            <i class='fa-solid fa-bars'></i>",
+            "            <!-- Add this code in the head section",
+            "            <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css'> -->",
+            "        </div>",
+            "</nav>"
+        ],
+        "description": "Basic NavBar"
+    }
+}

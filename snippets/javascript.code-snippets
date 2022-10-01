@@ -1,0 +1,18 @@
+{
+    "Basic NavBar": {
+        "prefix": "!nav",
+        "body": [
+            "const MenuBtn = document.getElementById('menuBtn');",
+            "const Menu = document.querySelector('ul');",
+            "",
+            "MenuBtn.addEventListener('click', () => {",
+            "    if (Menu.style.top == '-50%') {",
+            "        Menu.style.top = '6%';",
+            "    } else {",
+            "        Menu.style.top = '-50%';",
+            "    }",
+            "});"
+        ],
+        "description": "Basic NavBar"
+    }
+}

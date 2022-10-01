@@ -1,0 +1,40 @@
+{
+	"name": "basicsnippets",
+	"displayName": "Ryudify",
+	"description": "Make components with just few letters",
+	"version": "0.0.2",
+	"engines": {
+		"vscode": "^1.71.0"
+	},
+	"publisher": "Maddy",
+	"icon": "Ryudy.png",
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "css",
+				"path": "./snippets/css.code-snippets"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html.code-snippets"
+			},
+			{
+				"language": "javascript",
+				"path": "./snippets/javascript.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "4744136d-d510-4395-9a01-af60787bacc9",
+		"publisherDisplayName": "Maddy",
+		"publisherId": "81fb6438-6ce5-456a-9dfc-e76ca84c4eaa",
+		"isPreReleaseVersion": false,
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"preRelease": false
+	}
+}
