@@ -2,7 +2,7 @@
 	"name": "basicsnippets",
 	"displayName": "Ryudify",
 	"description": "Make components with just few letters",
-	"version": "0.0.2",
+	"version": "1.2.0",
 	"engines": {
 		"vscode": "^1.71.0"
 	},
